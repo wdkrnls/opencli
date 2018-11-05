@@ -1,0 +1,15 @@
+Package: opencli
+Title: Tools for building out simple CLI interfaces.
+Version: 0.0.1
+Authors@R: 
+    person(given = "Kyle",
+           family = "Andrews",
+           role = c("aut", "cre"),
+           email = "kyle.c.andrews@gmail.com")
+Description: Provides convenience functions for building command line apps.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+RoxygenNote: 6.1.0
